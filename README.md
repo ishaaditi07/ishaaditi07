@@ -47,8 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaaditi07&theme=react" />
-  
+  <img src="https://ghchart.rshah.org/ishaaditi07" />
   <br/><br/><br/>
 </div>
 
