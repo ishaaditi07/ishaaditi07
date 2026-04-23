@@ -68,8 +68,4 @@
 
 <br/>
 
-<div align="center">
-<a href='#'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Support me' /></a>
-</div>
-
 <br/>
